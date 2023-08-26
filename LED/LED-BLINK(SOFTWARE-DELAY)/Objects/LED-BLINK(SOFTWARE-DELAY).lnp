@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\1Second delay(software).obj" 
+TO ".\Objects\LED-BLINK(SOFTWARE-DELAY)" 
+PRINT(".\Listings\LED-BLINK(SOFTWARE-DELAY).m51") RAMSIZE(256) 
